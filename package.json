@@ -17,8 +17,12 @@
   },
   "homepage": "https://github.com/casperson/tweeter#readme",
   "dependencies": {
+    "backbone": "1.3.1",
+    "bootstrap": "3.3.6",
+    "jquery": "2.2.1",
     "react": "0.14.7",
-    "react-dom": "0.14.7"
+    "react-dom": "0.14.7",
+    "underscore": "1.8.3"
   },
   "devDependencies": {
     "babel-core": "6.6.4",
