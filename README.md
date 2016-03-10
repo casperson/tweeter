@@ -1,6 +1,8 @@
 # tweeter
 -Post a tweet and search through Twitter user base for user suggestions.
 
+-After cloning, do an npm install. You may need to run npm install webpack-dev-server -g in order to run the webpack server to see it locally. Then just run webpack-dev-server from the directory of your files.
+
 -Since the assignment stated that I could use a third party library for authentication, I
 found a library called Codebird that made authentication and making calls to the endpoints a breeze.
 
