@@ -1,2 +1,3 @@
-import Hello from './hello.jsx';
-import World from './world.jsx';
+import Tweet from './js/tweet.jsx';
+import UserResults from './js/userResults.jsx';
+import Header from './js/header.jsx';

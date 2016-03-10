@@ -1,0 +1,45 @@
+body {
+}
+
+.header-main {
+	background-color: #55ACEE;
+	color: white;
+	font-family: Helvetica, sans-serif;
+	margin-top: -2rem;
+	padding: 1.3rem;
+}
+
+.tweet-box {
+	text-align: center;
+	padding-top: 2rem;
+	width: 50%;
+}
+
+.tweet-area {
+	border-style: none;
+	border-color: transparent;
+    overflow: auto;
+    outline: none;
+	resize: none;
+}
+
+.lesser-text {
+	color: gray;
+}
+
+.image {
+	width: 35px;
+	height: 35px;
+}
+
+.names {
+	font-size: 1.7rem;
+}
+
+.highlighted {
+	background-color: #daffcc;
+}
+
+.users-row:hover {
+	background-color: #daffcc;
+}
